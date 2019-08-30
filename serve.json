@@ -1,0 +1,9 @@
+{
+  "public": "dist",
+  "rewrites": [
+    {
+      "source": "/slave2/*",
+      "destination": "/slave2/index.html"
+    }
+  ]
+}
